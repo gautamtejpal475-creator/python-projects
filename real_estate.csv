@@ -1,0 +1,21 @@
+HouseID,HouseType,Price,Units,Location
+H001,Flat,7500000.0,2.0,Delhi
+H002,Apartment,8500000.0,3.0,Gurgaon
+H003,Independent,,4.0,Noida
+H004,Flat,5600000.0,2.0,Faridabad
+H005,Apartment,9000000.0,3.0,Ghaziabad
+H006,Independent,12500000.0,,Greater Noida
+H007,Flat,4800000.0,2.0,Delhi
+H008,Apartment,,2.0,Gurgaon
+H009,Flat,5300000.0,1.0,Noida
+H010,Independent,14500000.0,5.0,Gurgaon
+H011,Apartment,9100000.0,3.0,Delhi
+H012,,8800000.0,2.0,Faridabad
+H013,Flat,,2.0,Noida
+H014,Independent,13200000.0,4.0,Ghaziabad
+H015,Flat,6200000.0,,Greater Noida
+H016,Apartment,8000000.0,2.0,Delhi
+H017,Independent,13900000.0,4.0,Noida
+H018,Flat,5400000.0,2.0,Faridabad
+H019,Apartment,9200000.0,3.0,Delhi
+H020,Flat,6100000.0,1.0,Ghaziabad
